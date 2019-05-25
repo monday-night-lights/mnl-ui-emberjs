@@ -1,16 +1,17 @@
-# mnl-ui
+# Monday Night Lights UI
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A user interface for the [MNL Hockey League](https://www.mnlhl.com) built with
+[Ember.js (Octane)](https://octane-guides-preview.emberjs.com/release/).
 
-## Prerequisites
+## Requirements for Local Development
 
 You will need the following things properly installed on your computer.
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
 * [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+* [Google Chrome](https://google.com/chrome/) or
+  [Mozilla Firefox](https://www.mozilla.org/firefox/)
 
 ## Installation
 
@@ -18,7 +19,7 @@ You will need the following things properly installed on your computer.
 * `cd mnl-ui`
 * `npm install`
 
-## Running / Development
+## Running the App
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
@@ -44,14 +45,14 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+<!-- ### Deploying
 
-Specify what it takes to deploy your app.
+Specify what it takes to deploy your app. -->
 
 ## Further Reading / Useful Links
 
 * [ember.js](https://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+  * [Ember Inspector for Chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+  * [Ember Inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)

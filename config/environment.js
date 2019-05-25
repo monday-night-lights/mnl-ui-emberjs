@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'mnl-ui',
+    podModulePrefix: 'mnl-ui/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
