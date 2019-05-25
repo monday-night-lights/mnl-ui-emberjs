@@ -1,4 +1,4 @@
-# Monday Night Lights UI
+# MNL Hockey League UI
 
 A user interface for the [MNL Hockey League](https://www.mnlhl.com) built with
 [Ember.js (Octane)](https://octane-guides-preview.emberjs.com/release/).
