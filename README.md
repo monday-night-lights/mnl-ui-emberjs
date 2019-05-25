@@ -29,6 +29,25 @@ You will need the following things properly installed on your computer.
 
 Make use of the many generators for code, try `ember help generate` for more details
 
+### Addon Packages
+
+`npm` packages built to specifically work with Ember.js are referred to as
+[Ember addons](https://cli.emberjs.com/release/#whatareaddons). You can browse
+quality addons at [Ember Observer](https://emberobserver.com/). Install or
+uninstall addons with these commands:
+
+    ember install <npm-package-name>
+    npm uninstall <npm-package-name>
+
+Using `ember install` will automatically include the package files in the
+build, but you may need to restart the server to see the effects in the browser.
+
+### Styling
+
+The app is styled using [Tailwind CSS](https://v0.tailwindcss.com/docs), via the
+[ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind#ember-cli-tailwind)
+addon.
+
 ### Running Tests
 
 * `ember test`
