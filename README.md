@@ -2,6 +2,9 @@
 
 A user interface for the [MNL Hockey League](https://www.mnlhl.com) built with
 [Ember.js (Octane)](https://octane-guides-preview.emberjs.com/release/).
+Be advised that Octane is a [_preview_ release](https://emberjs.com/releases/),
+but is generally compatible with the latest
+[LTS guides](https://guides.emberjs.com/release/).
 
 ## Requirements for Local Development
 
